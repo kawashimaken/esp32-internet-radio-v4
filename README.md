@@ -14,3 +14,7 @@ I use KiCad 6.0.5 for this project.
 
 This extension board is designed for this:
 https://ja.aliexpress.com/item/1005001621901111.html
+
+## KiCad
+
+Open `hardware/kicad/esp32_internet_radio_v4/esp32_internet_radio_v4.kicad_pro` in KiCad. Project-specific parts are in the `lib/` folder next to it.
